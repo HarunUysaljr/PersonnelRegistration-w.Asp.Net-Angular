@@ -11733,11 +11733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harun\\Desktop\\Asp.Net\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
+      "projectUniqueName": "C:\\Users\\Harun\\Desktop\\PersonnelRegistration-w.Asp.Net-Angular\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
       "projectName": "AspNetAngular",
-      "projectPath": "C:\\Users\\Harun\\Desktop\\Asp.Net\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
+      "projectPath": "C:\\Users\\Harun\\Desktop\\PersonnelRegistration-w.Asp.Net-Angular\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
       "packagesPath": "C:\\Users\\Harun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harun\\Desktop\\Asp.Net\\AspNetAngular\\AspNetAngular\\obj\\",
+      "outputPath": "C:\\Users\\Harun\\Desktop\\PersonnelRegistration-w.Asp.Net-Angular\\AspNetAngular\\AspNetAngular\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

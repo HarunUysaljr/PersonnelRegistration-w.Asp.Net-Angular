@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvsXTYiicZfftklMplNvv8HRb+YoMKw8ik4nBzNwEEYH7AQSG9V0i0+ycdHeuytnrt7yfpKHbqdOFz0odgVRxw==",
+  "dgSpecHash": "EsruLS2dV4NTaIO2EzXKbglSgNdvM68DY0ZwPth0b9WQJhn5VZKwx6z4GT8699H4x/EqvO8J/QV13oTjR85bng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harun\\Desktop\\Asp.Net\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
+  "projectFilePath": "C:\\Users\\Harun\\Desktop\\PersonnelRegistration-w.Asp.Net-Angular\\AspNetAngular\\AspNetAngular\\AspNetAngular.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harun\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Harun\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
